@@ -1,2 +1,5 @@
 .idea
-
+node_modules
+dist/js/i18n/build.txt
+.sass-cache
+package-lock.json
