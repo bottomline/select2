@@ -45,7 +45,7 @@
   "buildConfig": {
     "uglify": true
   },
-  "version": "5.0.1",
+  "version": "5.0.2",
   "jspm": {
     "main": "js/select2",
     "directories": {
